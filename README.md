@@ -1,1 +1,1 @@
-# TITANIC-SURVIVAL-PREDICTION
+The Titanic Survival Prediction project aims to predict the survival of passengers on the Titanic using various machine learning techniques. This project is based on the dataset from the Kaggle Titanic Challenge, which provides information about the passengers, including their age, sex, and socio-economic status.
